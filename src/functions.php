@@ -2,8 +2,8 @@
 namespace DTS\eBaySDK;
 
 use DTS\eBaySDK\Credentials\Credentials;
-use DTS\eBaySDK\Credentials\CredentialsProvider;
 use DTS\eBaySDK\Credentials\CredentialsInterface;
+use DTS\eBaySDK\Credentials\CredentialsProvider;
 
 /**
  * Returns a description of the type for the passed value.
